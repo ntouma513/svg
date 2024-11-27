@@ -10,19 +10,23 @@
 
 ## Instructions
 
-### NPM I -> NPM Start
+### 1. NPM I -> NPM Start
 
-### Enter logo name (three characters)
+### 2. Enter logo name (three characters)
 
-### Type color for text
+### 3. Type color for text
 
-### Choose Shape from selection
+### 4. Choose Shape from selection
 
-### Choose color for shape
+### 5. Choose color for shape
 
-### Validate logo is created by locating it and opening it in the browser.
+### 6. Validate logo is created by locating it and opening it in the browser.
 
 ## Credits
+
+### https://en.wikipedia.org/wiki/SVG
+### https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+### https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts
 
 ## Link to walkthrough
 
